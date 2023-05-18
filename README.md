@@ -1,2 +1,2 @@
-# sigo
-search template image(small) in source(big) image in golang, using opencv.
+# figo
+find the template image(small) in the source(big) image in golang, using opencv.
